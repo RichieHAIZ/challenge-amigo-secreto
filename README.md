@@ -4,4 +4,4 @@ En este proyecto se muestra el uso de funciones básicas en JavaScript para sort
 - ```array``` para almacenar los nombres ingresados.
 - ```function``` para agregar, actualizar y sortear los nombres ingresados.
 
-<h2>Estado del proyecto: En construcción 🛠️</h2>
+<h2>Estado del proyecto: Terminado 🛠️</h2>
